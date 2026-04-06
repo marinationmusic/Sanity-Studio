@@ -7,7 +7,7 @@ export default defineConfig({
   name: 'default',
   title: 'Marination Music',
 
-  projectId: 'mvp0girn',
+  projectId: 'fony16ui',
   dataset: 'production',
 
   plugins: [structureTool(), visionTool()],
